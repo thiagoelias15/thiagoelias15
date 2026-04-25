@@ -1,16 +1,20 @@
-## Hi there 👋
+# Thiago Elías
 
-<!--
-**thiagoelias15/thiagoelias15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### >/ Information Systems Engineering Student - UTN FRBA
 
-Here are some ideas to get you started:
+### Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    binaryPy = "Base conversion and binary arithmetics developed in Python"
+
+[>> Link to the repository](https://github.com/thiagoelias15/binaryPy)
+
+### Past projects:
+
+    PEPITO'S SWEET RESCUE --> Platform videogame, collaborative project in Wollok.
+    
+[>> Link to the repository](https://github.com/pdepjm/2025-o-game-if-else)
+
+### Languages I work with:
+
+    > C/C++
+    > Python
