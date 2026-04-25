@@ -1,20 +1,21 @@
 # Thiago Elías
 
-### >/ Information Systems Engineering Student - UTN FRBA
+### >/ Estudiante de Ingeniería en Sistemas de Información - UTN FRBA
 
-### Currently working on:
+### En desarrollo:
 
-    binaryPy = "Base conversion and binary arithmetics developed in Python"
+    binaryPy = "Aritmética binaria y conversión entre bases en Python"
 
 [Link to the repository](https://github.com/thiagoelias15/binaryPy)
 
-### Past projects:
+### Otros proyectos:
 
-    PEPITO'S SWEET RESCUE --> Platform videogame, collaborative project in Wollok.
+    PEPITO'S SWEET RESCUE >> "Juego de plataformas desarrollado de manera colaborativa en lenguaje Wollok.
+                              Proyecto final de la materia Paradigmas de Programación."
     
 [Link to the repository](https://github.com/pdepjm/2025-o-game-if-else)
 
-### Languages I work with:
+### Lenguajes que manejo:
 
     > C/C++
     > Python
